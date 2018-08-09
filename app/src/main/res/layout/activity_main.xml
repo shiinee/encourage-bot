@@ -31,7 +31,7 @@
         android:padding="16dp"
         android:onClick="encourage"
         android:text="@string/encourage_me"
-        android:textColor="@color/colorAccent"
+        android:textColor="@color/colorPrimary"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
