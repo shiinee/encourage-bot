@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Encourage Bot</string>
+    <string name="encourage_me">Encourage me please!</string>
+    <string name="encouragement_loading">Encouragement loading...</string>
+    <string-array name="message_array">
+        <item>You can do it!</item>
+        <item>I believe in you!</item>
+    </string-array>
+</resources>
