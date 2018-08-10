@@ -5,5 +5,13 @@
     <string-array name="message_array">
         <item>You can do it!</item>
         <item>I believe in you!</item>
+        <item>You are enough.</item>
+        <item>You are wonderful just the way you are.</item>
+        <item>You\'re stronger than you think.</item>
+        <item>I\'m so proud of you!</item>
+        <item>I\'m cheering for you!</item>
+        <item>Don\'t be afraid. I\'m here with you.</item>
+        <item>Be gentle with yourself. You\'re doing the best you can.</item>
+        <item>You are already capable of amazing things.</item>
     </string-array>
 </resources>
